@@ -44,11 +44,13 @@ my %verbaende = (
   'St. Pölten Bezirk' => 'pl',
   'Tulln' => 'tu',
   'Lilienfeld' => 'lf',
+  'Gänserndorf' => 'gf',
 );
 my %verbandHost = (
   'pl' => 'stpoeltenland',
   'tu' => 'tulln',
   'lf' => 'lilienfeld',
+  'gf' => 'gaenserndorf',
 );
 
 my %entsorgungsgebiete = (
